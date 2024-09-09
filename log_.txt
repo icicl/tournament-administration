@@ -1,0 +1,92 @@
+[2024-01-25 00:54:04]:	136.152.215.110attempted to login as user "icicl".
+[2024-01-25 00:54:40]:	136.152.215.110 created new season "Test".
+[2024-01-25 04:52:08]:	135.180.162.118attempted to login as user "icicl".
+[2024-01-25 04:52:13]:	135.180.162.118attempted to login as user "icicl".
+[2024-01-25 04:52:20]:	135.180.162.118 created new season "Spring2024".
+[2024-01-28 05:59:45]:	135.180.162.118attempted to login as user "icicl".
+[2024-01-28 05:59:57]:	135.180.162.118 added player "Dakota".
+[2024-01-28 06:00:04]:	135.180.162.118 added player "AidanSuss".
+[2024-01-28 06:00:12]:	135.180.162.118 added player "Alejandro".
+[2024-01-28 06:00:23]:	135.180.162.118 added player "Tyler".
+[2024-01-28 06:00:26]:	135.180.162.118 added player "Ayaan".
+[2024-01-28 06:00:29]:	135.180.162.118 added player "Amador".
+[2024-01-28 06:00:32]:	135.180.162.118 added player "Chris".
+[2024-01-28 06:00:34]:	135.180.162.118 added player "Ethan".
+[2024-01-28 06:00:37]:	135.180.162.118 added player "Jack".
+[2024-01-28 06:00:43]:	135.180.162.118 added player "Jeremy".
+[2024-01-28 06:00:44]:	135.180.162.118 added player "Jon".
+[2024-01-28 06:00:46]:	135.180.162.118 added player "Luis".
+[2024-01-28 06:00:48]:	135.180.162.118 added player "Nathan".
+[2024-01-28 06:00:50]:	135.180.162.118 added player "Sam".
+[2024-01-28 06:00:52]:	135.180.162.118 added player "Sid".
+[2024-01-28 06:00:55]:	135.180.162.118 added player "Rohan".
+[2024-01-28 06:01:53]:	135.180.162.118 added player "AidanWalker".
+[2024-01-28 06:01:56]:	135.180.162.118 added player "Boris".
+[2024-01-28 06:02:04]:	135.180.162.118 added player "David".
+[2024-01-28 06:02:05]:	135.180.162.118 added player "Ian".
+[2024-01-28 06:02:09]:	135.180.162.118 added player "Jo".
+[2024-01-28 06:02:14]:	135.180.162.118 added player "Jovanni".
+[2024-01-28 06:02:18]:	135.180.162.118 added player "Marcus".
+[2024-01-28 06:02:23]:	135.180.162.118 added player "Nelson".
+[2024-01-28 06:02:27]:	135.180.162.118 added player "Quentin".
+[2024-01-28 06:02:34]:	135.180.162.118 added player "Timothy".
+[2024-01-28 06:02:37]:	135.180.162.118 added player "Wenjo".
+[2024-01-28 06:02:41]:	135.180.162.118 added player "Jonas".
+[2024-01-28 06:02:43]:	135.180.162.118 added player "Noah".
+[2024-01-28 06:02:49]:	135.180.162.118 added player "Ryan".
+[2024-01-28 06:03:02]:	135.180.162.118 added player "Sriman".
+[2024-01-28 06:03:04]:	135.180.162.118 added player "Steven".
+[2024-01-28 06:04:42]:	135.180.162.118attempted to login as user "icicl".
+[2024-01-28 06:14:22]:	135.180.162.118attempted to login as user "icicl".
+[2024-01-28 07:47:16]:	135.180.162.118attempted to login as user "icicl".
+[2024-01-28 07:47:23]:	135.180.162.118 added player "Felix".
+[2024-01-28 18:23:55]:	135.180.162.118attempted to login as user "icicl".
+[2024-01-28 18:24:09]:	135.180.162.118 generated new matchups.
+[2024-01-30 03:40:00]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-03 02:42:29]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-03 02:42:34]:	135.180.162.118 generated new matchups.
+[2024-02-12 17:09:04]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-12 17:09:07]:	135.180.162.118 generated new matchups.
+[2024-02-16 19:45:40]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-16 19:46:32]:	135.180.162.118 removed player "Jovanni".
+[2024-02-17 03:52:21]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-17 03:52:26]:	135.180.162.118 removed player "Marcus".
+[2024-02-17 19:12:54]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-17 19:13:16]:	135.180.162.118 removed player "AidanW".
+[2024-02-19 18:46:06]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-19 18:46:09]:	135.180.162.118 generated new matchups.
+[2024-02-23 23:11:10]:	136.152.215.233attempted to login as user "icicl".
+[2024-02-23 23:11:15]:	136.152.215.233 removed player "Jo".
+[2024-02-24 01:32:05]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-24 01:32:30]:	135.180.162.118 removed player "Dave".
+[2024-02-24 01:32:32]:	135.180.162.118 removed player "David".
+[2024-02-26 19:08:26]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-26 19:08:32]:	135.180.162.118 removed player "Monish".
+[2024-02-26 19:08:33]:	135.180.162.118 removed player "".
+[2024-02-27 01:22:18]:	135.180.162.118attempted to login as user "icicl".
+[2024-02-27 01:22:22]:	135.180.162.118 generated new matchups.
+[2024-03-04 22:59:06]:	136.152.215.27attempted to login as user "icicl".
+[2024-03-04 22:59:09]:	136.152.215.27 generated new matchups.
+[2024-03-12 00:51:56]:	135.180.162.118attempted to login as user "icicl".
+[2024-03-12 00:51:59]:	135.180.162.118 generated new matchups.
+[2024-03-12 02:52:09]:	135.180.162.118attempted to login as user "icicl".
+[2024-03-12 02:52:25]:	135.180.162.118 removed player "Satwik".
+[2024-03-19 05:23:36]:	135.180.162.118attempted to login as user "icicl".
+[2024-03-19 05:23:38]:	135.180.162.118 generated new matchups.
+[2024-04-09 05:17:19]:	135.180.162.118attempted to login as user "icicl".
+[2024-04-09 05:17:22]:	135.180.162.118 generated new matchups.
+[2024-04-09 05:20:36]:	135.180.162.118 removed player "Timothy".
+[2024-04-09 05:40:52]:	135.180.162.118 removed player "Felix".
+[2024-04-09 05:40:56]:	135.180.162.118 removed player "Jonas".
+[2024-04-09 05:41:01]:	135.180.162.118 removed player "Sriman".
+[2024-04-10 20:26:26]:	136.152.214.58attempted to login as user "icicl".
+[2024-04-10 20:26:30]:	136.152.214.58 removed player "Nelson".
+[2024-09-09 03:22:40]:	70.176.165.89attempted to login as user "admin".
+[2024-09-09 03:22:48]:	70.176.165.89 created new season "Fall2024".
+[2024-09-09 03:22:55]:	70.176.165.89 added player "A".
+[2024-09-09 03:22:56]:	70.176.165.89 added player "B".
+[2024-09-09 03:22:56]:	70.176.165.89 added player "C".
+[2024-09-09 03:22:57]:	70.176.165.89 added player "D".
+[2024-09-09 03:22:58]:	70.176.165.89 added player "E".
+[2024-09-09 03:22:59]:	70.176.165.89 added player "F".
+[2024-09-09 03:23:05]:	70.176.165.89 generated new matchups.
